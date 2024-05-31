@@ -1,4 +1,4 @@
-# TicTacToe1
+# TicTacToe2
 #include <stdbool.h> 
 #include <stdio.h> 
 #include <stdlib.h> 
